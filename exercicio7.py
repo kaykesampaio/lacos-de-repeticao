@@ -1,5 +1,5 @@
 
-núm = int(inout('Digite um número'))
+núm = int(input('Digite um número'))
 
 tot = 0
 
